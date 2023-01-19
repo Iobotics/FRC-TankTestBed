@@ -49,6 +49,11 @@ public final class Constants {
 
     }
 
+    public static final class Pneumatics{
+        public static final int kDoubleSolenoidLeftSlot = 0;       
+        public static final int kDoubleSolenoidRightSlot = 0;
+    }
+
     public static final class PIDConstants{
         public static final int kPIDprimary = 0;
         public static final int kPIDturn = 1;
